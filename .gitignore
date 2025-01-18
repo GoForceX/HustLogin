@@ -5,3 +5,6 @@ dist
 build
 hust_login.egg-info
 secret.txt
+
+# For testing purposes
+/*.ipynb
